@@ -1,1 +1,117 @@
+<style>
+
+body {
+  background-color: white;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+h1 {
+	font-family: 'Open Sans', sans-serif;	
+	text-align: center; 
+	font-size: 24px; 
+	text-transform: uppercase;
+	color: #ff6666;
+}
+
+#home div {
+	font-family: 'Open Sans', sans-serif;	
+	text-align: center; 
+	font-size: 24px; 
+	text-transform: uppercase; 
+	color: #ff6666;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;	
+	text-align: center;
+ 	font-size: 16px;
+ 	line-height: 1.0;
+
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;	
+	font-size: 16px;
+	color: #ff6666;
+	line-height: 1.0;
+}
+
+header {
+	font-family: 'Open Sans', sans-serif;	
+	text-align: center;
+	font-size: 16px; 
+	margin-left: auto;
+	margin-right: auto;
+	color: #ff6666;
+}
+
+#nav div {	
+	font-family: 'Open Sans', sans-serif;	
+	display:inline-block;
+	font-size: 16px; 
+	padding: 25px;
+	color: #ff6666;
+}
+
+h4 { 
+	font-family: 'Open Sans', sans-serif;	
+	font-size: 16px;
+	color: #737373;
+	line-height: 0.5;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;	
+	font-size: 16px;
+	line-height: 1.5;
+
+}
+
+a {
+	font-family: 'Open Sans', sans-serif;	
+	text-transform: uppercase; 
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+	color: #ff6666;
+}
+
+ul {
+   list-style-type: circle;
+}
+
+li {
+	font-family: 'Open Sans', sans-serif;	
+	font-size: 16px;
+
+}
+
+li a {
+	font-family: 'Open Sans', sans-serif;	
+    list-style-type: none;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    display: block;
+    color: #ff6666;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+footer {
+	font-family: 'Open Sans', sans-serif;	
+	text-align: center;
+}
+
+#icons div {
+	display:inline-block;
+}
+
+</style>
 
